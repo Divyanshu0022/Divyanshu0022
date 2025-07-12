@@ -1,19 +1,29 @@
 # Hi there! 👋
 
-I'm Divyanshu, a 19-year-old Computer Science Engineering student at Sandip University. With a strong foundation in C/C++, Python, HTML, and CSS, I'm passionate about the future of Artificial Intelligence (AI) and its potential to revolutionize our world.
+I'm **Divyanshu Roy**, a 22-year-old Computer Science Engineering student at **Sandip University**. I’m passionate about building purposeful technology and exploring how Artificial Intelligence (AI) can elevate human potential and reshape industries.
 
-## My Goals:
-- Contribute to the development of AI, ensuring its safety and leveraging its benefits for the advancement of humankind.
-- Understand human behavior and social interactions within organizations.
-- Continuously learn about technology management.
+## 🚀 Technical Snapshot
 
-## Why I Believe in Managing Technology:
-While many people are creating and using technology, it's equally important to manage its potential drawbacks. Let's build a better future together! 🌟
+- 💻 **Programming:** C, Python, JavaScript  
+- 🌐 **Frontend Development:** HTML, CSS (advanced styles, hover effects), JavaScript  
+- 🛠️ **Backend Development:** Flask, SQLite3, Jinja templates, authentication systems (bcrypt)  
+- 🗄️ **Databases:** MySQL, SQLite3  
+- 📊 **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn  
+- 🤖 **Currently Exploring:** GenAI (LLM Engineering, Intelligent Agents & AI Safety)
 
-Feel free to connect with me on LinkedIn or Twitter. Let's geek out about AI and tech! 🚀
+## 🧠 My Goals
+
+- ⚙️ Build safe, impactful AI systems that serve humankind  
+- 🧍 Understand human dynamics within technical organizations  
+- 📈 Master technology management to shape responsible innovation  
+- 🛠️ Apply computer science in creative, analytical, and ethical ways
 
 
-<!---
-Divyanshu0022/Divyanshu0022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 Why I Believe in Managing Technology
+
+Technology has power — but direction matters. While many are racing to innovate, I believe thoughtful management is the key to meaningful progress. Let’s build the future we’d be proud to live in.
+
+---
+
+Feel free to connect with me on **LinkedIn** or geek out with me about AI, web tech, or systems thinking.  
+Let’s turn curiosity into creation! 
