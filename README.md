@@ -4,11 +4,11 @@ I'm **Divyanshu Roy**, a 22-year-old Computer Science Engineering student at **S
 
 ## 🚀 Technical Snapshot
 
-- 💻 **Programming:** C, Python, JavaScript  
-- 🌐 **Frontend Development:** HTML, CSS (advanced styles, hover effects), JavaScript  
+- 💻 **Programming:** Python , c/c++ 
+- 🌐 **Frontend Development:** HTML, CSS (advanced styles, hover effects), JavaScript(Basics)  
 - 🛠️ **Backend Development:** Flask, SQLite3, Jinja templates, authentication systems (bcrypt)  
 - 🗄️ **Databases:** MySQL, SQLite3  
-- 📊 **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn  
+- 📊 **Libraries & Tools:** NumPy, Pandas, Matplotlib, Seaborn ,plotly , scikit-learn,  joblib  
 - 🤖 **Currently Exploring:** GenAI (LLM Engineering, Intelligent Agents & AI Safety)
 
 ## 🧠 My Goals
