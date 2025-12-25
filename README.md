@@ -96,5 +96,5 @@
 ## 📫 Connect with Me
 
 - 📧 [divyanshu022.contact@gmail.com](mailto:divyanshu022.contact@gmail.com)  
-- 🔗 [LinkedIn](www.linkedin.com/in/divyanshu-roy-ai)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/divyanshu-roy-ai)  
 - 💻 [GitHub](https://github.com/Divyanshu0022)
