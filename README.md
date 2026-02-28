@@ -87,12 +87,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-![Divyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu0022&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu0022&layout=compact&theme=radical)
-
-https://github-readme-stats.vercel.app/api?username=Divyanshu0022&show_icons=true&theme=radical
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu0022&theme=radical)
 <figure><embed src="https://wakatime.com/share/@8106f858-f3a5-4df8-9976-097e2b080b54/2804b352-67be-493a-b78f-7fa1f74ec215.svg"></embed></figure>
 ---
 
