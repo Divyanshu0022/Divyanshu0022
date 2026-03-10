@@ -89,6 +89,7 @@
 ## 📈 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divyanshu0022&theme=radical)
 <figure><embed src="https://wakatime.com/share/@8106f858-f3a5-4df8-9976-097e2b080b54/2804b352-67be-493a-b78f-7fa1f74ec215.svg"></embed></figure>
+![WakaTime Stats](https://wakatime.com/share/@8106f858-f3a5-4df8-9976-097e2b080b54/2804b352-67be-493a-b78f-7fa1f74ec215.svg)
 ---
 
 ## 📫 Connect with Me
