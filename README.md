@@ -57,23 +57,23 @@
 
 ## 📂 Featured Projects
 
-- 🔍 [Context-Aware RAG Chatbot](https://github.com/Divyanshu0022/chatbot-RAG-with-chroma-01)  
-  LangChain + Gemini 1.5 + ChromaDB for private knowledge retrieval with Gradio UI
+- 🔍 [Persistent Organizational Memory](https://github.com/Divyanshu0022/Smriti.ai-Agentic-RAG.git)  
+  It transforms static documents into a reasoning-capable assistant that retrieves context from user-uploaded PDFs
 
 - 🛠️ [CircuitGuard: PCB Defect Detector](https://github.com/Divyanshu0022/CircuitGuard-PCB-Defect-Detector.git)  
   YOLOv8 + EfficientNet CNNs for real-time defect visualization and annotated outputs
 
-- 🎙️ [AI-Powered Audio Summarization](https://github.com/Divyanshu0022/Audio-to-Summary-Al/blob/main/README.md)  
-  Converts spoken audio into Markdown summaries using GPT-4o Mini and Llama 3.1
-
 - ⚡ [EV Charging Demand Prediction](https://github.com/Divyanshu0022/Ev-charging-predictions.git)  
   Time-series forecasting with Random Forest (R² = 1.00) and advanced feature engineering
+  
+- 🎙️ [AI-Powered Audio Summarization](https://github.com/Divyanshu0022/Audio-to-Summary-Al/blob/main/README.md)  
+  Converts spoken audio into Markdown summaries using GPT-4o Mini and Llama 3.1
 
 - ☁️ [AutoAI ML Pipelines on IBM Cloud](https://github.com/Divyanshu0022/Network-Intrusion-Detection.git)  
   Built and deployed intrusion detection and crop recommendation systems with 99%+ accuracy
 
-- 🔐 [Secure Flask Login System](https://github.com/Divyanshu0022/Flask-Login-System/blob/main/README.md)  
-  Password hashing with bcrypt and secure session management
+- 🔍 [Context-Aware RAG Chatbot](https://github.com/Divyanshu0022/chatbot-RAG-with-chroma-01)  
+  LangChain + Gemini 1.5 + ChromaDB for private knowledge retrieval with Gradio UI
 
 ---
 
