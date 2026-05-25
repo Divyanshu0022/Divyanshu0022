@@ -2,7 +2,7 @@
 
 🎓 Final-year B.Tech CSE student at Sandip University (2022–2026)  
 🤖 Specializing in **AI/ML and Generative AI**, with hands-on experience in **LLM engineering**, RAG, agentic workflows, and multimodal pipelines  
-📈 CGPA: **9.44**  
+📈 CGPA: **9.28**  
 🧠 Passionate about building deployable AI tools, optimizing workflows, and showcasing impact through clean documentation and smart branding
 
 ---
